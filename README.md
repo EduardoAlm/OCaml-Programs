@@ -29,16 +29,21 @@ A segunda linha cont ́e um o inteiro x.
   Sample Input1
   5
   1324231
+  
   Sample Output1
   YES
+  
   Sample Input2
   10
   5692695
+  
   Sample Output2
   NO
+  
   Sample Input3
   4
   56922965
+  
   Sample Output3
   ERROR
 
